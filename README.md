@@ -5,7 +5,8 @@ Solved problems
 /*
 h
 pa
-*yp*/
+*yp
+*/
 #include<stdio.h>
 
 int main() 
